@@ -1,0 +1,16 @@
+C:\Users\chant\OneDrive\repo\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.csproj.AssemblyReference.cache
+C:\Users\chant\OneDrive\repo\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chant\OneDrive\repo\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\chant\OneDrive\repo\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\chant\OneDrive\repo\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\chant\OneDrive\repo\FactoryPattern\FactoryPattern\bin\Debug\net5.0\FactoryPattern.exe
+C:\Users\chant\OneDrive\repo\FactoryPattern\FactoryPattern\bin\Debug\net5.0\FactoryPattern.deps.json
+C:\Users\chant\OneDrive\repo\FactoryPattern\FactoryPattern\bin\Debug\net5.0\FactoryPattern.runtimeconfig.json
+C:\Users\chant\OneDrive\repo\FactoryPattern\FactoryPattern\bin\Debug\net5.0\FactoryPattern.runtimeconfig.dev.json
+C:\Users\chant\OneDrive\repo\FactoryPattern\FactoryPattern\bin\Debug\net5.0\FactoryPattern.dll
+C:\Users\chant\OneDrive\repo\FactoryPattern\FactoryPattern\bin\Debug\net5.0\FactoryPattern.pdb
+C:\Users\chant\OneDrive\repo\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.dll
+C:\Users\chant\OneDrive\repo\FactoryPattern\FactoryPattern\obj\Debug\net5.0\refint\FactoryPattern.dll
+C:\Users\chant\OneDrive\repo\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.pdb
+C:\Users\chant\OneDrive\repo\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.genruntimeconfig.cache
+C:\Users\chant\OneDrive\repo\FactoryPattern\FactoryPattern\obj\Debug\net5.0\ref\FactoryPattern.dll
